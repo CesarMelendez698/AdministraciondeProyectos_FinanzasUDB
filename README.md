@@ -164,3 +164,4 @@ Proyecto realizado en colaboración por:
 ## 📄 Licencia
 
 Este proyecto fue desarrollado con propósitos académicos para la **Universidad Don Bosco (UDB)**, El Salvador. Todos los derechos reservados © 2026.
+
